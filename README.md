@@ -52,6 +52,11 @@ Using this method, scientists have successfully built up entangled nodes 50 kilo
 But will our system really be impenetrable, or is this all just a dream? As long as we work to create systems that are impenetrable, other individuals will have access to the same or even more advanced technologies. Humans constantly strive to get better. We create things, break them to see where they fall short, and then do it again. Hopefully, the dream of complete security and an unhackable system will come true eventually.
 
 ## References
+[1]. https://www.technologist.eu/new-record-data-transfer-speed-in-fiber-optic-network
+[2]. https://www.space.com/how-many-satellites-are-orbiting-earth 
+[3]. https://www.cnbc.com/2021/08/19/spacex-starlink-satellite-internet-new-capabilities-starshiplaunch.html 
+[4]. Hacking Satellites with $300 Worth of TV Gear- https://youtu.be/8IGsQoL1AgQ
+[5]. What Would a Quantum Internet Look Like? - https://youtu.be/m8fi0fODVDw
 
 
 
